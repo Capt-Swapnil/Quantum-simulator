@@ -1,2 +1,5 @@
-pandas 
+qiskit>=1.2
+qiskit-aer>=0.17.2,<0.18
+numpy>=1.23
+pytest>=8
 numpy
